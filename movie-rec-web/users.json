@@ -1,0 +1,20 @@
+[
+  {
+    "email": "x@gmai.com",
+    "password": "1234"
+  },
+  {
+    "email": "xl@gmai.com",
+    "password": "11111"
+  },
+  {
+    "email": "rand@mail.com",
+    "password": "rand",
+    "watchedMovies": [
+      "The Notebook",
+      "Loving Maradona",
+      "Morbius",
+      "South Wind"
+    ]
+  }
+]
